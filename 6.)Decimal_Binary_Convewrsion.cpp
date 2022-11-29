@@ -13,9 +13,9 @@ int main(){
         if(digit==1){
             ans=ans+pow(2,i);
         }
-        n=n>>1;
+        n=n/10;
         i=i+1;
     }
     cout<<"It's Binary Form = "<<ans;
 return 0;
-}
+} 
