@@ -1,4 +1,4 @@
-//               creating function to print count:
+//               creating function to calculate sum of n natural number:
 #include<iostream>
 using namespace std;
 
