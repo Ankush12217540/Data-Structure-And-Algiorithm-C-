@@ -11,6 +11,7 @@ int main(){
         flag=1;
            break;
        }
+        
        a=a+1;
     if(flag==0){
         cout<<"It's a Prime Number;
@@ -21,3 +22,4 @@ int main(){
         return 0;
     }
       
+chec
