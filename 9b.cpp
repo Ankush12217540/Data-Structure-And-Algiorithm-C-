@@ -28,6 +28,7 @@ int getMax(int num[],int n){
     
 }
 
+
 int main(){
     int size;
     cout<<"Enter the size of array: ";
