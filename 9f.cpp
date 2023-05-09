@@ -12,6 +12,7 @@ bool search(int arr[],int size, int key){
 return 0;
 }
 
+
 int main(){
     int arr[10]={5,7,-2,10,22,-2,0,5,22,1};
 
