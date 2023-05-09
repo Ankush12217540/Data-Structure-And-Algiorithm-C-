@@ -8,6 +8,7 @@ void printArray(int arr[], int n){
 
 }
 
+
 void swapAlternate(int arr[], int size){
     for(int i=1;i<=size; i=i+2){
         if (i+1<size){
