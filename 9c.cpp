@@ -17,6 +17,7 @@ int main(){
     int MinValue=arr[0];
     int MaxValue=arr[0];
 
+    
     for (int i = 0; i < n; i++)
     {
         //max-element
