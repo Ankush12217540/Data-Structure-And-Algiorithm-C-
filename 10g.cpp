@@ -18,6 +18,7 @@ void sortArray(int arr[],int n){
 while(arr[i]==0 && i<j){
     i++;
 }
+        
 while (arr[j]==1 && i<j){
     j--;
 }
