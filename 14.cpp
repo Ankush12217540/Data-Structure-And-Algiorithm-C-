@@ -19,6 +19,7 @@ int getPivot(int arr1[],int n){
     return s;
 }
 
+
 int main(){
     int arr1[5]={3,8,17,1,2};
     cout<<arr1;
