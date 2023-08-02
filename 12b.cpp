@@ -20,7 +20,6 @@ int mountainArr(int arr[], int size, int key){
     }
     return mid;
 }   
-
 int main(){
     int arr[8]={1,2,3,4,5,6,7,1};
     mountainArr(arr,8,7);
