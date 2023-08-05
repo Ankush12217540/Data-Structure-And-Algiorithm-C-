@@ -17,6 +17,7 @@ void selectionSort(vector<int> &arr, int n){
     };
 }
 
+
 int main(){
     int arr[5]={2,3,1,4,6};
     cout<<"The Selection sort of the array: "<<arr<<" is: ";
