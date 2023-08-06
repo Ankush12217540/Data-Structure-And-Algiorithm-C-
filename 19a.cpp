@@ -13,6 +13,7 @@ int main(){
     v.push_back(2);
     cout<<"Capaciy-> "<<v.capacity()<<endl;
 
+    
     v.push_back(3);
     cout<<"Capacity-> "<<v.capacity()<<endl;
 
