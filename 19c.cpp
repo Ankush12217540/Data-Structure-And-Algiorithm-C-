@@ -10,6 +10,7 @@ std::list <data-type> name_of_list;
 */
 
 
+
 // C++ program to demonstrate the implementation of List
 #include <iostream>
 #include <iterator>
