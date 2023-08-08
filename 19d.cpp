@@ -11,6 +11,7 @@ then just have a real life example for this differentiation, for stack, stacking
 and for queue remember when you have to stand in queue front of ATM for taking out the cash, then first person near to ATM
  has the first chance to take out the money from ATM. So, queue is the FIFO (First In First Out) type working.
 */
+
 # include<iostream>
 #include<stack>
 using namespace std;
