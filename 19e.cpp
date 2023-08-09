@@ -12,6 +12,7 @@ int main(){
     q.push("Babbar");
     q.push("Kumar");
 
+    
     cout<<"First Element: "<<q.front()<<endl;
     q.pop();
     cout<<"First Element: "<<q.front()<<endl;
