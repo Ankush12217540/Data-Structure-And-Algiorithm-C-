@@ -3,6 +3,7 @@
 // In this Data structure, we always fetch either max or min of the value from the heap
 // By default greatest element is fetched
 
+
 #include<iostream>
 #include<queue>
 using namespace std;
