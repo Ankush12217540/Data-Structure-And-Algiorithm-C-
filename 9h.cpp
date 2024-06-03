@@ -17,7 +17,7 @@ void swapAlternate(int arr[], int size){
         // Alternate way to write the program without swap function:
                                         /*  int temp=arr[i];
                                             arr[i]=arr[i-1];
-                                            arr[i-1]=temp;      */
+                                            arr[i-1]=temp;      */ 
     }
 } 
 
