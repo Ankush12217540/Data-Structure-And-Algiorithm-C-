@@ -13,7 +13,7 @@ int ArraySum(int array[],int a){
 
 
 int main(){
-    int n;
+    int n; 
     cout<<"Enter the size of the arrray: ";
     cin>>n;
     int arr[n];
