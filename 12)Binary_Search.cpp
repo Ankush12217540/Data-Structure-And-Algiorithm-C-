@@ -8,7 +8,7 @@ void printArray(int arr[], int size){
     for(int i=0; i<=size; i++){
         cout<<arr[i]<<"  ";
     }
-}
+} 
 int binarySearch(int arr[],int size, int key){
     int start=0;
     int end=size-1;
