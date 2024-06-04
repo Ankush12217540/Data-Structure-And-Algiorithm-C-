@@ -7,7 +7,7 @@ There is only one repeated number in nums, return this repeated number.
 You must solve the problem without modifying the array nums and uses only constant extra space.
 */
 // code studio
-int ans=0;
+int ans=0; 
  for(int i=0; i<arr.size(),i++){
     ans=ans^arr[i];
  }
