@@ -11,7 +11,7 @@ int pairSum(vector<int> &arr, int n, int target){
 				temp.push_back(max(arr[i],arr[j]))
 				ans.push_back(temp);
 			}
-		}
+		} 
 	}
 	sort(ans.begin(),ans.end());
 	return ans;
