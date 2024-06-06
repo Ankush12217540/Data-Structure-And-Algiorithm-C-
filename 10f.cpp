@@ -10,7 +10,7 @@ bool find3Numbers(int A[], int arr_size, int sum)
 	/* Sort the elements */
 	sort(A, A + arr_size);
 	/* Now fix the first element one by one and find the
-	other two elements */
+	other two elements */ 
 	for (int i = 0; i < arr_size - 2; i++) { 
 		
 		// To find the other two elements, start two index
