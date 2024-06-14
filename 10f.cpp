@@ -6,7 +6,7 @@ using namespace std;
 // to 'sum' present in A[]. Also, prints the triplet
 bool find3Numbers(int A[], int arr_size, int sum)
 {
-	int l, r;
+	int l, r; 
 	/* Sort the elements */
 	sort(A, A + arr_size); 
 	/* Now fix the first element one by one and find the
