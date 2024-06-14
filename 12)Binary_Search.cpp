@@ -9,7 +9,7 @@ void printArray(int arr[], int size){
         cout<<arr[i]<<"  ";
     }
 }   
-int binarySearch(int arr[],int size, int key){
+int binarySearch(int arr[],int size, int key){ 
     int start=0;
     int end=size-1;
     int mid=(start+end)/2;
