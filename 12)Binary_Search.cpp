@@ -2,7 +2,7 @@
 // Finding Index uisng Binary Search and reducing time complexity
 
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 void printArray(int arr[], int size){
     for(int i=0; i<=size; i++){
